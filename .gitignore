@@ -1,1 +1,4 @@
-.idea
+.idea/
+.iws
+tasks.xml
+workspace.xml
